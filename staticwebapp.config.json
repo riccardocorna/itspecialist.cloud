@@ -3,6 +3,10 @@
     {
       "route": "/en*",
       "redirect": "https://www.itspecialist.news"
+    },
+    {
+      "route": "/it*",
+      "redirect": "https://www.itspecialist.news"
     }
   ]
 }
