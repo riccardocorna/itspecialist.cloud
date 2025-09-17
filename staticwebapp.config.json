@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/en*",
+      "redirect": "https://www.itspecialist.news"
+    }
+  ]
+}
